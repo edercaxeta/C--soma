@@ -1,0 +1,8 @@
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\bin\Debug\exercicio_es01.exe.config
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\bin\Debug\exercicio_es01.exe
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\bin\Debug\exercicio_es01.pdb
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\obj\Debug\exercicio_es01.csproj.AssemblyReference.cache
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\obj\Debug\exercicio_es01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\obj\Debug\exercicio_es01.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\obj\Debug\exercicio_es01.exe
+C:\Users\ederc\Desktop\curso de C#\exercicio_es01\obj\Debug\exercicio_es01.pdb
